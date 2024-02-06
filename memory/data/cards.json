@@ -1,38 +1,38 @@
 [
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/bird.png",
+    "name": "bird"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/B.png",
+    "name": "B"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/C.png",
+    "name": "C"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/D.png",
+    "name": "D"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/E.png",
+    "name": "E"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/F.png",
+    "name": "F"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/G.png",
+    "name": "G"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/H.png",
+    "name": "H"
   },
   {
-    "image": "../assets/",
-    "name": ""
+    "image": "../assets/I.png",
+    "name": "I"
   }
 ]
